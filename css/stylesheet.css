@@ -1,0 +1,15 @@
+.showing 
+{
+  display: none;
+}
+
+p
+{
+  cursor: pointer;
+  color: blueviolet;
+}
+
+p:hover
+{
+  text-decoration: underline;
+}
